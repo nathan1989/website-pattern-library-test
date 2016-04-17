@@ -1,0 +1,5 @@
+pattern-lib/node_modules
+pattern-lib/dist
+pattern-lib/.tmp
+pattern-lib/.sass-cache
+pattern-lib/bower_components
